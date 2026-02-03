@@ -1,8 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* POS defaults */
-body {
-  @apply bg-pos-bg text-gray-800;
-}
